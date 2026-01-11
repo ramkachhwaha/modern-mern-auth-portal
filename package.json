@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "private": true,
     "description": "Full Stack MERN Project with React 19 and Node.js",
+    
     "scripts": {
+        "start": "node server/server.js",
         "server": "npm run dev --prefix server",
         "client": "npm run dev --prefix client",
         "dev": "concurrently \"npm run server\" \"npm run client\"",
