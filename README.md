@@ -1,5 +1,14 @@
 # Modern MERN Auth Portal 🦋
 
+---
+
+### 🔗 Project Links
+
+- 🌐 Frontend: https://modern-mern-auth-portal.vercel.app
+
+> ℹ️ Note: The live link opens the **Login page** of the application.
+
+------
 > A production-ready full-stack authentication system featuring a cinematic butterfly splash screen, robust JWT security, and a structured Monorepo architecture.
 
 [![React](https://img.shields.io/badge/React-19.0-blue?style=for-the-badge&logo=react)](https://react.dev/)
@@ -25,6 +34,7 @@ This repository uses a **Monorepo** structure, housing both the Client (Frontend
 - **⚡ Organized Codebase:**
   - **Frontend:** Centralized API handling (`webservices`), Redux for state, and Protected Routes.
   - **Backend:** Separated Configs, Controllers, Routes, and Response Patterns.
+
 
 ---
 
@@ -153,6 +163,7 @@ Copyright © 2026 **ramkachhwaha**.
 
 ---
 
-*Made with ❤️ using the MERN Stack*
+
+>> *Made with ❤️ using the MERN Stack* 
 
 
