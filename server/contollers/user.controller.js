@@ -18,10 +18,6 @@ export async function loginUser(req, res) {
             return res.status(404).json(new ServerResponse(false, null, "User not found", null));
         }
 
-        // if (!user.isActive) {
-        //     return res.status(401).json({ message: 'Unauthrize or Deteted Account Please Contact Admin person' });
-        // }
-
         const isPasswordValid = await bcrypt.compare(password, user.password);
 
         if (!isPasswordValid) {

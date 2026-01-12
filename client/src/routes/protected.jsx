@@ -3,7 +3,7 @@ import { useCallback, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getProfile } from "../webservices/auth/api.js";
 
-export default function ProtectedRoute() {  // 
+export default function ProtectedRoute() {
     const navigate = useNavigate();
     const dispatch = useDispatch();
 
