@@ -139,7 +139,7 @@ npm run dev
 - GitHub: [https://github.com/ramkachhwaha](https://github.com/ramkachhwaha)
 - Linkedin: [https://www.linkedin.com/in/ram-kachhwaha-mac155/](https://www.linkedin.com/in/ram-kachhwaha-mac155/)
 - Gmail: [ramkachhwaha062@gmail.com](mailto:ramkachhwaha062@gmail.com)
-- Gmail: <a href="mailto:ramkachhwaha062@gmail.com">ramkachhwaha062@gmail.com</a>
+
 ---
 
 *Made with ❤️ using the MERN Stack*
