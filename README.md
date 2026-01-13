@@ -156,7 +156,7 @@ Copyright © 2026 **ramkachhwaha**.
 
 ## 👤 Author
 
-**Ram Kachhwaha**
+>**Ram Kachhwaha**
 - GitHub: [https://github.com/ramkachhwaha](https://github.com/ramkachhwaha)
 - Linkedin: [https://www.linkedin.com/in/ram-kachhwaha-mac155/](https://www.linkedin.com/in/ram-kachhwaha-mac155/)
 - Gmail: [ramkachhwaha062@gmail.com](mailto:ramkachhwaha062@gmail.com)
@@ -164,6 +164,18 @@ Copyright © 2026 **ramkachhwaha**.
 ---
 
 
->> *Made with ❤️ using the MERN Stack* 
+
+
+<div align="center" >
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramkachhwaha&color=blue&style=flat-square&label=Profile+Views)
+
+<div>
+
+-----
+
+> *Made with ❤️ using the MERN Stack* 
+
 
 
